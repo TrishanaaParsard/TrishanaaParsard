@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Trishanaa</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trishanaaparsard" alt="trishanaaparsard" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=trishanaaparsard&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
