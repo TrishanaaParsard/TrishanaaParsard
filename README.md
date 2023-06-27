@@ -5,7 +5,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=trishanaaparsard&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=trishanaaparsard&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=trishanaaparsard&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trishanaaparsard&theme=tokyonight&hide_border=false)<br/>
 
 <h3 align="left">Connect with me:</h3>
