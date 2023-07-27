@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trishanaa</h1>
-<h3 align="center">A passionate software developer from South Africa</h3>
+<h3 align="center">Aspring software developer from South Africa</h3>
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=trishanaaparsard&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
