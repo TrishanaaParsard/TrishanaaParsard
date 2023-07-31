@@ -1,12 +1,10 @@
 <h1>Hi, I'm Trishanaa!👋</h1>
 
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=trishanaaparsard&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trishanaaparsard&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=trishanaaparsard&theme=tokyonight&hide_border=false)<br/>
+![Trishanaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=trishanaaparsard&show_icons=true&theme=midnight-purple)
+![](https://github-readme-streak-stats.herokuapp.com/?user=trishanaaparsard&theme=midnight-purple&hide_border=false)<br/>
+<img width=46% height=15% src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishanaaparsard&layout=compact&theme=midnight-purple"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
