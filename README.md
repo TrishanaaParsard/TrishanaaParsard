@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Trishanaa</h1>
+<h1>Hi, I'm Trishanaa!👋</h1>
 
 
 # 🏆 GitHub Trophies
