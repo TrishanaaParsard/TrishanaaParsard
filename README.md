@@ -1,5 +1,7 @@
 <h1>Hi, I'm Trishanaa!👋</h1>
 
+<p>Personal Website: https://trishanaa-portfolio.vercel.app/</p>
+
 # 📊 GitHub Stats:
 ![Trishanaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=trishanaaparsard&show_icons=true&theme=midnight-purple)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trishanaaparsard&theme=midnight-purple&hide_border=false)<br/>
