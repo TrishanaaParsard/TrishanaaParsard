@@ -3,9 +3,11 @@
 <p>Personal Website: https://trishanaa-portfolio.vercel.app/</p>
 
 # 📊 GitHub Stats:
-![Trishanaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=trishanaaparsard&show_icons=true&theme=midnight-purple)
-![](https://github-readme-streak-stats.herokuapp.com/?user=trishanaaparsard&theme=midnight-purple&hide_border=false)<br/>
-<img width=46% height=15% src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishanaaparsard&layout=compact&theme=midnight-purple"/>
+![](https://github-readme-stats.vercel.app/api?username=trishanaaparsard&theme=midnight-purple&hide_border=false&include_all_commits=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=trishanaaparsard&theme=midnight-purple&hide_border=false)
+<img width=44% height=10% src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishanaaparsard&theme=midnight-purple&layout=compact"/>
+
+
 
 
 # Connect with me:
